@@ -16,4 +16,4 @@ Passionné par l'utilisation de la technologie comme levier de développement, j
 - **Infrastructures :** Pilotage de projets de câblage et réseaux pour la GIZ.
 - **Support & Audit :** Intégration de systèmes ERP et gestion d'actifs IT chez United Bank for Africa.
 
-📫 **Contact :** gerardndilbe@gmail.com | [LinkedIn](ton-lien-linkedin) | [Portfolio](http://www.dngerard.net)
+📫 **Contact :** gerardndilbe@gmail.com | [LinkedIn](https://www.linkedin.com/in/ndilbegerard/) | [Portfolio](http://www.dngerard.net)
