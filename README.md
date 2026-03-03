@@ -1,20 +1,19 @@
-# Salut, moi c'est Gérard ! 👋
+# 👨‍💻 DJODET NDILBE Gérard | Ingénieur Logiciel & Digitalisation
 
-[cite_start]Manager Support et Applications IT avec plus de 8 ans d'expérience. [cite_start]Expert en développement logiciel et digitalisation, je transforme les besoins métiers en solutions technologiques performantes[cite: 5, 6].
+Professionnel de l'IT avec plus de 8 ans d'expérience, spécialisé dans la conception et le déploiement de solutions logicielles critiques. Mon parcours au sein d'institutions bancaires (UBA) et de projets internationaux (GIZ, PNUD) m'a permis de développer une expertise solide en gestion de projets IT complexes et en développement Fullstack.
 
-### 🛠 Compétences Clés
-* [cite_start]**Langages :** PHP, Java, Python, C#, JavaScript [cite: 8]
-* [cite_start]**Bases de données :** Oracle (Certifié 19C), MySQL, SQL Server, PostgreSQL [cite: 8, 47]
-* [cite_start]**Expertise IT :** Gestion de projets ERP, Infrastructures réseau, Cybersécurité & Hacking Éthique [cite: 9, 48, 49]
+### 🌟 Vision pour le Volontariat ONU
+Passionné par l'utilisation de la technologie comme levier de développement, je souhaite mettre mes compétences techniques (Java, PHP, Python) au profit de la paix et du progrès social à travers le programme VNU.
 
-### 🚀 Projets Majeurs
-* [cite_start]**Plateforme Prix National d'Excellence :** Pilotage et développement (https://prixjeunesse.td/).
-* [cite_start]**Lumen Expertise :** Développement et déploiement fullstack (https://lumen-expertise.com/)[cite: 12].
-* [cite_start]**Gestion de Parc Automobile :** Conception d'une solution pour SOGATRA (PHP/Oracle)[cite: 35, 36, 37].
+### 🛠 Stack Technique & Expertise
+- **Langages :** PHP, Java, Python, JavaScript, C#
+- **Bases de Données :** Oracle (Certifié 19C), MySQL, PostgreSQL, SQL Server
+- **Gestion de Projets :** Agile, ITIL, Digitalisation des processus métiers
+- **Sécurité :** Cybersécurité & Hacking Éthique (Certification Udemy)
 
-### 🎓 Certifications
-* [cite_start]Master II en Informatique & Management des Entreprises [cite: 41]
-* [cite_start]Oracle 19C Administrator [cite: 47]
-* [cite_start]Agile & ITIL (UBA Academy) [cite: 49]
+### 📈 Réalisations Marquantes
+- **Digitalisation Nationale :** Développement de la plateforme du Prix National d'Excellence de la Jeunesse (Tchad).
+- **Infrastructures :** Pilotage de projets de câblage et réseaux pour la GIZ.
+- **Support & Audit :** Intégration de systèmes ERP et gestion d'actifs IT chez United Bank for Africa.
 
-[cite_start]📫 **Me contacter :** gerardndilbe@gmail.com [cite: 2]
+📫 **Contact :** gerardndilbe@gmail.com | [LinkedIn](ton-lien-linkedin) | [Portfolio](http://www.dngerard.net)
